@@ -12,4 +12,4 @@ pen.lineTo(337, 390);
 pen.stroke();
 
 pen.beginPath();
-pen.arc(640, 360, 0)
+pen.arc(640, 360, 0, 2*pi)
